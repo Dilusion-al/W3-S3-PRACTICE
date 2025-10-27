@@ -1,0 +1,20 @@
+/* TODO */
+body{
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    background-color: rgb(255, 192, 203);
+    color: white;
+    border: 5px solid rgba(255, 64, 233, 0.233);
+    border-radius: 15px;
+    padding: 200px 300px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: purple;;
+}
+
+    
